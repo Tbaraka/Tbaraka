@@ -1,11 +1,6 @@
-- 👋 Hi, I’m Teddy Baraka
-- 👀 I’m interested in gaining more knowledge about how to use my acquired programming skills to solve modern problem in the dynamic world
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on many knowledge sharing and open source projects 
-- 📫 You can reach me at my email @barakateddy442@gmail.com
-- ⚡ Fun fact:I am a movie critic and fanatic 
+Programming Languages: C++, Python, Java
 
-<!---
-Tbaraka/Tbaraka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hardware & Microcontrollers: Arduino UNO, NeoPixel LEDs, LCD Displays, Sensors
+
+Tools & IDEs: Arduino IDE, VS Code, Git, GitHub,IntelliJea,Flutter and React 
+Concepts: Object-Oriented Programming (OOP), Data Structures & Algorithms, Database Systems, Software Development Life Cycle
